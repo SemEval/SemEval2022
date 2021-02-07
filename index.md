@@ -19,7 +19,14 @@ Welcome to the [SemEval](https://semeval.github.io/)-2022 homepage!
 - [Guy Emerson](https://www.languagesciences.cam.ac.uk/directory/guy-emerson), Cambridge University
 - [Natalie Schluter](https://natschluter.github.io/), IT University Copenhagen, Google Brain
 
-__Contact:__ General questions about SemEval organization should be directed to <semeval-organizers@googlegroups.com>.
+### Resources
+
+- [Frequenty Asked Questions about SemEval](/faq.html)
+- [Paper Submission Requirements](/paper-requirements.html)
+- [Guidelines for Writing Papers](/system-paper-template.html)
+
+__Contact:__ <!--Most questions not answered by the above resources should be directed to organizers of specific [tasks](tasks.html).-->
+General questions about SemEval organization should be directed to <semeval-organizers@googlegroups.com>.
 
 ## Anti-Harassment policy
 
