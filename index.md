@@ -9,7 +9,7 @@ Welcome to the [SemEval](https://semeval.github.io/)-2022 homepage!
 
 ### Important dates
 
-- Task proposals due March 22, 2021
+- Task proposals due ~~March 22~~ **March 26**, 2021
 - Task selection notification May 14, 2021
 
 ### Organizers
