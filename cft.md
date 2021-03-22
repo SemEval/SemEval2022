@@ -103,7 +103,7 @@ and possibly shepherd papers that need additional help in improving the writing.
 
 ## Important dates
 
-- Task proposals due ~~March 22~~ **March 26**, 2021
+- Task proposals due ~~March 22~~ **March 26**, 2021 ([Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth))
 - Task selection notification May 14, 2021
 
 
