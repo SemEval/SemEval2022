@@ -4,7 +4,7 @@ title: SemEval-2022
 
 Welcome to the [SemEval](https://semeval.github.io/)-2022 homepage!
 
-### [SemEval 2022 call for task proposals](https://semeval.github.io/SemEval2022/cft)
+### [SemEval-2022 call for task proposals](https://semeval.github.io/SemEval2022/cft)
 
 
 ### Important dates
