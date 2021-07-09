@@ -15,7 +15,7 @@ Welcome to the [SemEval](https://semeval.github.io/)-2022 homepage!
 - Task proposals due: **March 26**, 2021
 - Task selection notification: May 14, 2021
 - Trial data and task website ready: July 31, 2021
-- 2021 tasks announced: August 6, 2021
+- 2022 tasks announced: August 6, 2021
 - Training data ready: September 3, 2021
 - Evaluation data ready: December 3, 2021
 - Evaluation start: January 10, 2022
