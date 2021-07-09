@@ -23,7 +23,7 @@ Welcome to the [SemEval](https://semeval.github.io/)-2022 homepage!
 - Paper submissions due: roughly February 23, 2022
 - Notification to authors: March 31, 2022
 - Camera ready: TBD
-- SemEval workshop Summer 2022 (co-located with a major NLP conference)
+- SemEval workshop: Summer 2022 (co-located with a major NLP conference)
 
 All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/wiki/Anywhere_on_Earth)).
 
