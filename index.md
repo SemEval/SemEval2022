@@ -4,9 +4,9 @@ title: SemEval-2022
 
 Welcome to the [SemEval](https://semeval.github.io/)-2022 homepage!
 
-<!---
-### [SemEval-2022 tasks](https://semeval.github.io/SemEval2022/tasks)
+### [SemEval-2022 tasks](https://semeval.github.io/SemEval2022/tasks) will be announced August 6, 2021, at the [SemEval-2021 workshop](https://semeval.github.io/SemEval2021)
 
+<!---
 ### [SemEval-2022 program](https://semeval.github.io/SemEval2022/schedule)
 --->
 
