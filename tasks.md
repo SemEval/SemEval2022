@@ -2,17 +2,9 @@
 title: SemEval-2022 Tasks
 ---
 
-**TO BE ANNOUNCED ON AUGUST 6!!**
+### We are pleased to announce the following tasks for [SemEval-2022](https://semeval.github.io/SemEval2022)!
 
-The 12 tasks selected for [SemEval-2022](https://semeval.github.io/SemEval2022) will be announced at the upcoming [SemEval-2021](https://semeval.github.io/SemEval2021) workshop.
 
-<!--- We are pleased to announce the following tasks for [SemEval-2022](https://semeval.github.io/SemEval2022)! --->
-
-For general information about participating in SemEval and submitting papers, see [Resources](index.html#resources).
-
-[Link to CodaLab instructions](https://semeval.github.io/SemEval2022/codaLab), for both organizers and participants.
-
-<!---
 
 ## TASKS
 Websites and contact information for individual tasks below - we will keep updating these as we receive them. 
@@ -23,7 +15,7 @@ Websites and contact information for individual tasks below - we will keep updat
 - **[Task 1: CODWOE - COmparing Dictionaries and WOrd Embeddings](https://competitions.codalab.org/competitions/34022)** ([[contact organizers]](mailto:tmickus@atilf.fr)  [[task mailing list]](mailto:semeval2022-dictionaries-and-word-embeddings@googlegroups.com)) <br>
 Timothee Mickus, Denis Paperno, Mathieu Constant, Kees van Deemter
 
-- **[Task 2: Multilingual Idiomaticity Detection and Sentence Embedding](https://sites.google.com/view/semeval2022task2-idiomaticity)** ([[contact organizers]](mailto:semeval-2022-task-2-mwe-organisers-group@sheffield.ac.uk)  [[task mailing list]](mailto:semeval-2022-task-2-mwe@googlegroups.com) <br>
+- **[Task 2: Multilingual Idiomaticity Detection and Sentence Embedding](https://sites.google.com/view/semeval2022task2-idiomaticity)** ([[contact organizers]](mailto:semeval-2022-task-2-mwe-organisers-group@sheffield.ac.uk)  [[task mailing list]](mailto:semeval-2022-task-2-mwe@googlegroups.com)) <br>
 Harish Tayyar Madabushi, Marcos Garcia, Carolina Scarton, Marco Idiart, Aline Villavicencio
 
 - **[Task 3: Presupposed Taxonomies - Evaluating Neural-network Semantics (PreTENS)](https://sites.google.com/view/semeval2022-pretens/)** ([[contact organizers]](mailto:semeval2022-task3-organizers@googlegroups.com)  [[task mailing list]](mailto:semeval2022-task3@googlegroups.com)) <br>
@@ -63,7 +55,11 @@ Shervin Malmasi, Sudipta Kar, Besnik Fetahu, Anjie Fang, Oleg Rokhlenko
 - **[Task 12: Symlink - Linking Mathematical Symbols to their Descriptions](https://competitions.codalab.org/competitions/34011)** ([[contact organizers]](mailto:semeval.2022.task.12.symlink@gmail.com)  [[task mailing list]](mailto:semeval-2022-task-12-symlink@googlegroups.com)) <br>
 Viet Dac Lai, Amir Ben Veyseh, Thien Huu Nguyen, Franck Dernoncourt
 
---->
 
 #### CONTACT
 For questions about particular tasks, email the task organizers at the addresses linked above. General questions about SemEval organization should be directed to <semeval-organizers@googlegroups.com>.
+
+For general information about participating in SemEval and submitting papers, see [Resources](index.html#resources).
+
+[Link to CodaLab instructions](https://semeval.github.io/SemEval2022/codaLab), for both organizers and participants.
+
