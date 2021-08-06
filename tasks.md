@@ -7,7 +7,7 @@ title: SemEval-2022 Tasks
 
 
 ## TASKS
-Websites and contact information for individual tasks below - we will keep updating these as we receive them. 
+Websites and contact information for individual tasks below.
 
 
 ### Lexical semantics
@@ -27,7 +27,7 @@ Dominique Brunato, Cristiano Chesi, Shammur Absar Chowdhury, Felice Dell'Orletta
 - **[Task 4: Patronizing and Condescending Language Detection](https://sites.google.com/view/pcl-detection-semeval2022/)** ([[contact organizers]](mailto:semeval2022.task4.pcldetection@gmail.com)  [[task mailing list]](mailto:pcl-detection-task4-semeval2022@googlegroups.com)) <br>
 Carla Perez-Almendros, Luis Espinosa-Anke, Steven Schockaert
 
-- **Task 5: MAMI - Multimedia Automatic Misogyny Identification** ([[contact organizers]](mailto:semeval2022-mami-organizers@googlegroups.com)  [[task mailing list]](mailto:semeval2022-mami@googlegroups.com)) <br>
+- **[Task 5: MAMI - Multimedia Automatic Misogyny Identification](https://competitions.codalab.org/competitions/34175)** ([[contact organizers]](mailto:semeval2022-mami-organizers@googlegroups.com)  [[task mailing list]](mailto:semeval2022-mami@googlegroups.com)) <br>
 Elisabetta Fersini, Paolo Rosso, Francesca Gasparini, Alyssa Lees, Jeffrey Sorensen
 
 - **[Task 6: iSarcasmEval - Intended Sarcasm Detection in English and Arabic](https://sites.google.com/view/semeval2022-isarcasmeval)** ([[contact organizers]](mailto:semeval2022-isarcasmeval-organizers@googlegroups.com)  [[task mailing list]](mailto:semeval2022-isarcasmeval@googlegroups.com)) <br>
