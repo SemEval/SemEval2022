@@ -49,7 +49,7 @@ James Pustejovsky, Jingxuan Tu, Marco Maru, Simone Conia, Roberto Navigli, Kyeon
 - **[Task 10: Structured Sentiment Analysis](https://competitions.codalab.org/competitions/33556)** ([[contact organizers]](mailto:)  [[task mailing list]](mailto:structured-sent-participants@googlegroups.com)) <br>
 Jeremy Barnes, Andrey Kutuzov, Jan Buchmann, Laura Ana Maria Oberländer, Enrica Troiano, Rodrigo Agerri, Lilja Øvrelid, Erik Velldal, Stephan Oepen
 
-- **[Task 11: MultiCoNER - Multilingual Complex Named Entity Recognition](https://multiconer.github.io/)** ([[contact organizers]](mailto:)  [[task mailing list]](mailto:)) <br>
+- **[Task 11: MultiCoNER - Multilingual Complex Named Entity Recognition](https://multiconer.github.io/)** ([[contact organizers]](mailto:multiconer-semeval-organizers@googlegroups.com)  [[task mailing list]](mailto:multiconer-semeval@googlegroups.com)) <br>
 Shervin Malmasi, Sudipta Kar, Besnik Fetahu, Anjie Fang, Oleg Rokhlenko
 
 - **[Task 12: Symlink - Linking Mathematical Symbols to their Descriptions](https://competitions.codalab.org/competitions/34011)** ([[contact organizers]](mailto:semeval.2022.task.12.symlink@gmail.com)  [[task mailing list]](mailto:semeval-2022-task-12-symlink@googlegroups.com)) <br>
