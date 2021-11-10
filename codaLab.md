@@ -101,4 +101,5 @@ Participants must click the Submit to Leaderboard button underneath one of their
 
 
 #### CONTACT
-Contact information for organizers of individual tasks will be available soon. General questions about SemEval organization should be directed to <semeval-organizers@googlegroups.com>.
+Contact information for organizers of individual tasks is available in [the list of tasks](tasks.html).
+General questions about SemEval organization should be directed to <semevalorganizers@gmail.com>.

@@ -30,7 +30,7 @@ In the event of receiving many proposals, preference will be given to proposals 
 
 In case you are not sure whether a task is suitable for SemEval,
 please feel free to get in touch with the SemEval organizers
-at semeval-organizers@googlegroups.com to discuss your idea.
+at semevalorganizers@gmail.com to discuss your idea.
 
 ## Task Selection
 
@@ -177,4 +177,4 @@ Nathan Schneider, Georgetown University\
 Alexis Palmer, University of North Texas\
 Guy Emerson, University of Cambridge\
 Natalie Schluter, IT University of Copenhagen\
-Contact: semeval-organizers@googlegroups.com
+Contact: semevalorganizers@gmail.com

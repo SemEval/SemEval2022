@@ -57,7 +57,7 @@ Viet Dac Lai, Amir Ben Veyseh, Thien Huu Nguyen, Franck Dernoncourt
 
 
 #### CONTACT
-For questions about particular tasks, email the task organizers at the addresses linked above. General questions about SemEval organization should be directed to <semeval-organizers@googlegroups.com>.
+For questions about particular tasks, email the task organizers at the addresses linked above. General questions about SemEval organization should be directed to <semevalorganizers@gmail.com>.
 
 For general information about participating in SemEval and submitting papers, see [Resources](index.html#resources).
 
