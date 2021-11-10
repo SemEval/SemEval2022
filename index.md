@@ -43,7 +43,7 @@ All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/w
 ### Organizers
 
 - [Guy Emerson](https://www.languagesciences.cam.ac.uk/directory/guy-emerson), Cambridge University
-- [Natalie Schluter](https://natschluter.github.io/), IT University Copenhagen, Google Research
+- [Natalie Schluter](https://natschluter.github.io/), IT University Copenhagen
 - [Gabriel Stanovsky](https://gabrielstanovsky.github.io/), The Hebrew University of Jerusalem
 - [Ritesh Kumar](https://www.ctrans.in/research/clresearch), Bhimrao Ambedkar University
 - [Alexis Palmer](https://linguistics.unt.edu/alexis-palmer), University of Colorado Boulder
