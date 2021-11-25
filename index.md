@@ -19,13 +19,13 @@ Welcome to the [SemEval](https://semeval.github.io/)-2022 homepage!
 - Paper submissions due: roughly February 23, 2022
 - Notification to authors: March 31, 2022
 - Camera ready: TBD
-- SemEval workshop: Summer 2022 (co-located with a major NLP conference)
+- SemEval workshop: 14-15 July 2022 (co-located with [NAACL](https://2022.naacl.org/))
 
 All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/wiki/Anywhere_on_Earth)).
 
 ### Important dates for task organizers
 
-- Task proposals due: **March 26**, 2021
+- Task proposals due: March 26, 2021
 - Task selection notification: May 14, 2021
 - Trial data and task website ready: July 31, 2021
 - 2022 tasks announced: August 6, 2021
@@ -36,7 +36,7 @@ All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/w
 - Paper submissions due: roughly February 23, 2022
 - Notification to authors: March 31, 2022
 - Camera ready: TBD
-- SemEval workshop: Summer 2022 (co-located with a major NLP conference)
+- SemEval workshop: 14-15 July 2022 (co-located with [NAACL](https://2022.naacl.org/))
 
 All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/wiki/Anywhere_on_Earth)).
 
