@@ -16,7 +16,7 @@ Welcome to the [SemEval](https://semeval.github.io/)-2022 homepage!
 - Training data available: September 3, 2021
 - Evaluation start: January 10, 2022
 - Evaluation end: by January 31, 2022 (latest date; task organizers may choose an earlier date)
-- Paper submissions due: roughly February 23, 2022
+- Paper submissions due: February 28, 2022
 - Notification to authors: March 31, 2022
 - Camera ready: TBD
 - SemEval workshop: 14-15 July 2022 (co-located with [NAACL](https://2022.naacl.org/))
@@ -33,7 +33,8 @@ All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/w
 - Evaluation data ready: December 3, 2021
 - Evaluation start: January 10, 2022
 - Evaluation end: by January 31, 2022 (latest date; task organizers may choose an earlier date)
-- Paper submissions due: roughly February 23, 2022
+- System paper submissions due: February 28, 2022
+- Task paper submissions due: March 7, 2022
 - Notification to authors: March 31, 2022
 - Camera ready: TBD
 - SemEval workshop: 14-15 July 2022 (co-located with [NAACL](https://2022.naacl.org/))
