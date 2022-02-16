@@ -55,6 +55,7 @@ All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/w
 - [Frequently Asked Questions about SemEval](/faq.html)
 - [Paper Submission Requirements](/paper-requirements.html)
 - [Guidelines for Writing Papers](/system-paper-template.html)
+- [Paper style files](https://github.com/acl-org/acl-style-files)
 - [SemEval-2022 call for task proposals (archival)](https://semeval.github.io/SemEval2022/cft)
 
 __Contact:__ Most questions not answered by the above resources should be directed to organizers of specific [tasks](tasks.html).
