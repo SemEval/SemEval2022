@@ -56,7 +56,11 @@ All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/w
 - [Paper Submission Requirements](/paper-requirements.html)
 - [Guidelines for Writing Papers](/system-paper-template.html)
 - [Paper style files](https://github.com/acl-org/acl-style-files)
-- [SemEval-2022 call for task proposals (archival)](https://semeval.github.io/SemEval2022/cft)
+- [Paper submission site](https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/Semeval)
+
+### Archive
+
+- [SemEval-2022 call for task proposals](https://semeval.github.io/SemEval2022/cft)
 
 __Contact:__ Most questions not answered by the above resources should be directed to organizers of specific [tasks](tasks.html).
 General questions about SemEval organization should be directed to <semevalorganizers@gmail.com>.
