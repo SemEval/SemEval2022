@@ -12,31 +12,34 @@ Welcome to the [SemEval](https://semeval.github.io/)-2022 homepage!
 
 ### Important dates for task participants
 
-- 2022 tasks announced (with trial data available): August 6, 2021
-- Training data available: September 3, 2021
-- Evaluation start: January 10, 2022
-- Evaluation end: by January 31, 2022 (latest date; task organizers may choose an earlier date)
-- Paper submissions due: February 28, 2022
-- Notification to authors: March 31, 2022
-- Camera ready: TBD
+- 2022 tasks announced (with trial data available): 6 August 2021
+- Training data available: 3 September 2021
+- Evaluation start: 10 January 2022
+- Evaluation end: by 31 January 2022 (latest date; task organizers may choose an earlier date)
+- Paper submissions due: 28 February 2022
+- Reviews due: 21 March 2022
+- Notification to authors: 31 March 2022
+- Camera ready: 21 April 2022
 - SemEval workshop: 14-15 July 2022 (co-located with [NAACL](https://2022.naacl.org/))
 
 All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/wiki/Anywhere_on_Earth)).
 
 ### Important dates for task organizers
 
-- Task proposals due: March 26, 2021
-- Task selection notification: May 14, 2021
-- Trial data and task website ready: July 31, 2021
-- 2022 tasks announced: August 6, 2021
-- Training data ready: September 3, 2021
-- Evaluation data ready: December 3, 2021
-- Evaluation start: January 10, 2022
-- Evaluation end: by January 31, 2022 (latest date; task organizers may choose an earlier date)
-- System paper submissions due: February 28, 2022
-- Task paper submissions due: March 7, 2022
-- Notification to authors: March 31, 2022
-- Camera ready: TBD
+- Task proposals due: 26 March 2021
+- Task selection notification: 14 May 2021
+- Trial data and task website ready: 31 July 2021
+- 2022 tasks announced: 6 August 2021
+- Training data ready: 3 September 2021
+- Evaluation data ready: 3 December 2021
+- Evaluation start: 10 January 2022
+- Evaluation end: by 31 January 2022 (latest date; task organizers may choose an earlier date)
+- System paper submissions due: 28 February 2022
+- Task paper submissions due: 7 March 2022
+- System paper reviews due: 21 March 2022
+- Task paper reviews due: 28 March 2022
+- Notification to authors: 31 March 2022
+- Camera ready: 21 March 2022
 - SemEval workshop: 14-15 July 2022 (co-located with [NAACL](https://2022.naacl.org/))
 
 All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/wiki/Anywhere_on_Earth)).
