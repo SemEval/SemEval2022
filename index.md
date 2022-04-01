@@ -18,7 +18,7 @@ Welcome to the [SemEval](https://semeval.github.io/)-2022 homepage!
 - Evaluation end: by 31 January 2022 (latest date; task organizers may choose an earlier date)
 - Paper submissions due: 28 February 2022
 - Reviews due: 21 March 2022
-- Notification to authors: 31 March 2022
+- Notification to authors: ~31 March 2022~ (reviews have been released; notifications to follow)
 - Camera ready: 21 April 2022
 - SemEval workshop: 14-15 July 2022 (co-located with [NAACL](https://2022.naacl.org/))
 
