@@ -91,6 +91,7 @@ All times shown are in Seattle local time ([UTC-7](https://en.wikipedia.org/wiki
   - RubCSG at SemEval-2022 Task 5: Ensemble learning for identifying misogynous MEMEs
   - INF-UFRGS at SemEval-2022 Task 5: analyzing the performance of multimodal models
   - MMVAE at SemEval-2022 Task 5: A Multi-modal Multi-task VAE on Misogynous Meme Detection
+  - UIC-NLP at SemEval-2022 Task 5: Exploring Contrastive Learning for Multimodal Detection of Misogynistic Memes
   - reamtchka at SemEval-2022 Task 6: Investigating the effect of different loss functions for Sarcasm detection for unbalanced datasets
   - IISERB Brains at SemEval-2022 Task 6: A Deep-learning Framework to Identify Intended Sarcasm in English
   - DUCS at SemEval-2022 Task 6: Exploring Emojis and Sentiments for Sarcasm Detection
