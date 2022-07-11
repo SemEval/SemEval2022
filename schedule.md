@@ -12,6 +12,7 @@ All times shown are in Seattle local time ([UTC-7](https://en.wikipedia.org/wiki
 <details><summary><strong>8:30-10:00 Poster Session 1, System Description Papers (Online)</strong></summary>
 
   - LingJing at SemEval-2022 Task 1: Multi-task Self-supervised Pre-training for Multilingual Reverse Dictionary
+  - BLCU-ICALL at SemEval-2022 Task 1: Cross-Attention Multitasking Framework for Definition Modeling
   - daminglu123 at SemEval-2022 Task 2: Using BERT and LSTM to Do Text Classification
   - kpfriends at SemEval-2022 Task 2: NEAMER - Named Entity Augmented Multi-word Expression Recognizer
   - drsphelps at SemEval-2022 Task 2: Learning idiom representations using BERTRAM
@@ -20,6 +21,7 @@ All times shown are in Seattle local time ([UTC-7](https://en.wikipedia.org/wiki
   - SPDB Innovation Lab at SemEval-2022 Task 3: Recognize Appropriate Taxonomic Relations Between Two Nominal Arguments with ERNIE-M Model
   - RUG-1-Pegasussers at SemEval-2022 Task 3: Data Generation Methods to Improve Recognizing Appropriate Taxonomic Word Relations
   - Felix&Julia at SemEval-2022 Task 4: Patronizing and Condescending Language Detection 
+  - PiCkLe at SemEval-2022 Task 4: Boosting Pre-trained Language Models with Task Specific Metadata and Cost Sensitive Learning
   - Plumeria at SemEval-2022 Task 6: Sarcasm Detection for English and Arabic Using Transformers and Data Augmentation
   - akaBERT at SemEval-2022 Task 6: An Ensemble Transformer-based Model for Arabic Sarcasm Detection
   - X-PuDu at SemEval-2022 Task 6: Multilingual Learning for English and Arabic Sarcasm Detection
@@ -85,6 +87,10 @@ All times shown are in Seattle local time ([UTC-7](https://en.wikipedia.org/wiki
   - ML_LTU at SemEval-2022 Task 4: T5 Towards Identifying Patronizing and Condescending Language
   - YNU-HPCC at SemEval-2022 Task 4: Finetuning Pretrained Language Models for Patronizing and Condescending Language Detection
   - McRock at SemEval-2022 Task 4: Patronizing and Condescending Language Detection using Multi-Channel CNN, Hybrid LSTM, DistilBERT and XLNet
+  - UniBO at SemEval-2022 Task 5: A Multimodal bi-Transformer Approach to the Binary and Fine-grained Identification of Misogyny in Memes
+  - RubCSG at SemEval-2022 Task 5: Ensemble learning for identifying misogynous MEMEs
+  - INF-UFRGS at SemEval-2022 Task 5: analyzing the performance of multimodal models
+  - MMVAE at SemEval-2022 Task 5: A Multi-modal Multi-task VAE on Misogynous Meme Detection
   - reamtchka at SemEval-2022 Task 6: Investigating the effect of different loss functions for Sarcasm detection for unbalanced datasets
   - IISERB Brains at SemEval-2022 Task 6: A Deep-learning Framework to Identify Intended Sarcasm in English
   - DUCS at SemEval-2022 Task 6: Exploring Emojis and Sentiments for Sarcasm Detection
