@@ -44,10 +44,9 @@ All times shown are in Seattle local time ([UTC-7](https://en.wikipedia.org/wiki
 
 <em>10:00-10:30 Coffee break</em>
 
-<details><summary><strong>10:30-12:00 Oral Session 1, Task Description Papers (Mostly Online)</strong></summary>
+<details><summary><strong>10:30-11:45 Oral Session 1, Task Description Papers (Online)</strong></summary>
 
   - Semeval-2022 Task 1: CODWOE – Comparing Dictionaries and Word Embeddings
-  - SemEval-2022 Task 2: Multilingual Idiomaticity Detection and Sentence Embedding (On-site)
   - SemEval-2022 Task 3: Evaluating Neural Networks on Presuppositional Semantic Knowledge (PreTENS)
   - SemEval-2022 Task 5: Multimedia Automatic Misogyny Identification
   - SemEval-2022 Task 6: iSarcasmEval, Intended Sarcasm Detection in English and Arabic
@@ -60,8 +59,9 @@ All times shown are in Seattle local time ([UTC-7](https://en.wikipedia.org/wiki
 
 <em>15:00-15:30 Coffee break</em>
 
-<details><summary><strong>15:30-17:00 Oral Session 2, Task Description Papers</strong></summary>
+<details><summary><strong>15:30-17:15 Oral Session 2, Task Description Papers</strong></summary>
 
+  - SemEval-2022 Task 2: Multilingual Idiomaticity Detection and Sentence Embedding
   - SemEval-2022 Task 4: Patronizing and Condescending Language Detection
   - SemEval-2022 Task 8: Multilingual news article similarity
   - SemEval-2022 Task 9: R2VQ – Competence-based Multimodal Question Answering
@@ -70,7 +70,7 @@ All times shown are in Seattle local time ([UTC-7](https://en.wikipedia.org/wiki
   - SemEval-2022 Task 12: Symlink - Linking Mathematical Symbols to their Descriptions
 </details>
 
-<strong>17:00 Announcements: SemEval-2022 Best Paper Awards, SemEval-2023 Tasks</strong>
+<strong>17:15-17:30 Announcements: SemEval-2022 Best Paper Awards, SemEval-2023 Tasks</strong>
 
 ### Friday, 15th July
 
