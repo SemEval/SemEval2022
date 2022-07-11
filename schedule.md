@@ -42,11 +42,11 @@ All times shown are in Seattle local time ([UTC-7](https://en.wikipedia.org/wiki
 
 <em>10:00-10:30 Coffee break</em>
 
-<details><summary><strong>10:30-12:00 Oral Session 1, Task Description Papers (Online)</strong></summary>
+<details><summary><strong>10:30-12:00 Oral Session 1, Task Description Papers (Mostly Online)</strong></summary>
 
   - Semeval-2022 Task 1: CODWOE – Comparing Dictionaries and Word Embeddings
-  - SemEval-2022 Task 2: Multilingual Idiomaticity Detection and Sentence Embedding
-  - SemEval-2022 Task3 (PreTENS): Evaluating Neural Networks on Presuppositional Semantic Knowledge
+  - SemEval-2022 Task 2: Multilingual Idiomaticity Detection and Sentence Embedding (On-site)
+  - SemEval-2022 Task 3: Evaluating Neural Networks on Presuppositional Semantic Knowledge (PreTENS)
   - SemEval-2022 Task 5: Multimedia Automatic Misogyny Identification
   - SemEval-2022 Task 6: iSarcasmEval, Intended Sarcasm Detection in English and Arabic
   - SemEval-2022 Task 7: Identifying Plausible Clarifications of Implicit and Underspecified Phrases in Instructional Texts
