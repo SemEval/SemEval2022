@@ -4,11 +4,9 @@ title: SemEval-2022
 
 Welcome to the [SemEval](https://semeval.github.io/)-2022 homepage!
 
-## [SemEval-2022 tasks](https://semeval.github.io/SemEval2022/tasks) 
-
-<!---
-### [SemEval-2022 program](https://semeval.github.io/SemEval2022/schedule)
---->
+### [SemEval-2022 tasks](https://semeval.github.io/SemEval2022/tasks) 
+### [SemEval-2022 schedule](https://semeval.github.io/SemEval2022/schedule)
+### [SemEval-2022 proceedings](https://aclanthology.org/volumes/2022.semeval-1/)
 
 ### Important dates for task participants
 
