@@ -53,7 +53,7 @@ All times shown are in Seattle local time ([UTC-7](https://en.wikipedia.org/wiki
   - SemEval-2022 Task 7: Identifying Plausible Clarifications of Implicit and Underspecified Phrases in Instructional Texts
 </details>
 
-<em>12:00-13:30 Lunch break</em>
+<em>11:45-13:30 Lunch break</em>
 
 <strong>13:30-15:00 Invited Talk, Alane Suhr: Two Approaches to Grounded Language Evaluation</strong>
 
