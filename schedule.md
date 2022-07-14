@@ -5,11 +5,19 @@ title: SemEval-2022 Schedule
 ## SemEval-2022 Schedule
 
 [SemEval-2022](https://semeval.github.io/SemEval2022/) will be colocated with [NAACL 2022](https://2022.naacl.org/).
-All times shown are in Seattle local time ([UTC-7](https://en.wikipedia.org/wiki/UTC%E2%88%9207:00)).
+All times shown below are in Seattle local time ([UTC-7](https://en.wikipedia.org/wiki/UTC%E2%88%9207:00)).
+
+Online poster sessions will be held on Gather, and online oral sessions will be held on Zoom.
+The links are available on [Underline](https://underline.io/events/325/sessions?eventSessionId=11192).
+
+In-person poster sessions will be held in the Regency ballroom.
+In-person oral sessions will be held in Elwha B,
+except for Allyson Ettinger's invited talk (joint with *SEM), which will be in Elwha A.
+Oral sessions will also be streamed on Zoom.
 
 ### Thursday, 14th July
 
-<details><summary><strong>8:30-10:00 Poster Session 1, System Description Papers (Online)</strong></summary>
+<details><summary><strong>8:30-10:00 Poster Session 1, System Description Papers (Online: Gather)</strong></summary>
 
   - LingJing at SemEval-2022 Task 1: Multi-task Self-supervised Pre-training for Multilingual Reverse Dictionary
   - BLCU-ICALL at SemEval-2022 Task 1: Cross-Attention Multitasking Framework for Definition Modeling
@@ -44,7 +52,7 @@ All times shown are in Seattle local time ([UTC-7](https://en.wikipedia.org/wiki
 
 <em>10:00-10:30 Coffee break</em>
 
-<details><summary><strong>10:30-11:45 Oral Session 1, Task Description Papers (Online)</strong></summary>
+<details><summary><strong>10:30-11:45 Oral Session 1, Task Description Papers (Online: Zoom)</strong></summary>
 
   - Semeval-2022 Task 1: CODWOE – Comparing Dictionaries and Word Embeddings
   - SemEval-2022 Task 3: Evaluating Neural Networks on Presuppositional Semantic Knowledge (PreTENS)
@@ -55,11 +63,11 @@ All times shown are in Seattle local time ([UTC-7](https://en.wikipedia.org/wiki
 
 <em>11:45-13:30 Lunch break</em>
 
-<strong>13:30-15:00 Invited Talk, Alane Suhr: Two Approaches to Grounded Language Evaluation</strong>
+<strong>13:30-15:00 Invited Talk, Alane Suhr: Two Approaches to Grounded Language Evaluation (Elwha B or Zoom)</strong>
 
 <em>15:00-15:30 Coffee break</em>
 
-<details><summary><strong>15:30-17:15 Oral Session 2, Task Description Papers</strong></summary>
+<details><summary><strong>15:30-17:15 Oral Session 2, Task Description Papers (Elwha B or Zoom)</strong></summary>
 
   - SemEval-2022 Task 2: Multilingual Idiomaticity Detection and Sentence Embedding
   - SemEval-2022 Task 4: Patronizing and Condescending Language Detection
@@ -70,11 +78,11 @@ All times shown are in Seattle local time ([UTC-7](https://en.wikipedia.org/wiki
   - SemEval-2022 Task 12: Symlink - Linking Mathematical Symbols to their Descriptions
 </details>
 
-<strong>17:15-17:30 Announcements: SemEval-2022 Best Paper Awards, SemEval-2023 Tasks</strong>
+<strong>17:15-17:30 Announcements: SemEval-2022 Best Paper Awards, SemEval-2023 Tasks (Elwha B or Zoom)</strong>
 
 ### Friday, 15th July
 
-<details><summary><strong>8:30-10:00 Poster Session 2, System Description Papers (Online)</strong></summary>
+<details><summary><strong>8:30-10:00 Poster Session 2, System Description Papers (Online: Gather)</strong></summary>
 
   - JSI at SemEval-2022 Task 1: CODWOE - Reverse Dictionary: Monolingual and cross-lingual approaches
   - Uppsala University at SemEval-2022 Task 1: Can Foreign Entries Enhance an English Reverse Dictionary?
@@ -112,7 +120,7 @@ All times shown are in Seattle local time ([UTC-7](https://en.wikipedia.org/wiki
 
 <em>10:00-10:30 Coffee break</em>
 
-<details><summary><strong>10:30-12:00 Poster Session 3, System Description Papers</strong></summary>
+<details><summary><strong>10:30-12:00 Poster Session 3, System Description Papers (Regency Ballroom)</strong></summary>
 
   - RIGA at SemEval-2022 Task 1: Scaling Recurrent Neural Networks for CODWOE Dictionary Modeling
   - Edinburgh at SemEval-2022 Task 1: Jointly Fishing for Word Embeddings and Definitions
@@ -131,11 +139,11 @@ All times shown are in Seattle local time ([UTC-7](https://en.wikipedia.org/wiki
 
 <em>12:00-13:30 Lunch break</em>
 
-<strong>13:30-15:00 Invited Talk, Allyson Ettinger: "Understanding" and prediction: Controlled examinations of meaning sensitivity in pre-trained models [Shared with *SEM]</strong>
+<strong>13:30-15:00 Invited Talk, Allyson Ettinger: "Understanding" and prediction: Controlled examinations of meaning sensitivity in pre-trained models [Shared with [*SEM](https://underline.io/events/325/sessions?eventSessionId=11194)] (Elwha A or Zoom)</strong>
 
 <em>15:00-15:30 Coffee break</em>
 
-<details><summary><strong>15:30-17:00 Poster Session 4, System Description Papers</strong></summary>
+<details><summary><strong>15:30-17:00 Poster Session 4, System Description Papers (Regency Ballroom)</strong></summary>
 
   - MaChAmp at SemEval-2022 Tasks 2, 3, 4, 6, 10, 11, and 12: Multi-task Multi-lingual Learning for a Pre-selected Set of Semantic Datasets
   - CS-UM6P at SemEval-2022 Task 6: Transformer-based Models  for Intended Sarcasm Detection in English and Arabic
