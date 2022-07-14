@@ -52,7 +52,7 @@ Oral sessions will also be streamed on Zoom.
 
 <em>10:00-10:30 Coffee break</em>
 
-<details><summary><strong>10:30-11:45 Oral Session 1, Task Description Papers (Online: Zoom)</strong></summary>
+<details><summary><strong>10:30-11:45 Oral Session 1, Task Description Papers (Online: Zoom or Elwha B)</strong></summary>
 
   - Semeval-2022 Task 1: CODWOE – Comparing Dictionaries and Word Embeddings
   - SemEval-2022 Task 3: Evaluating Neural Networks on Presuppositional Semantic Knowledge (PreTENS)
