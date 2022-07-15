@@ -43,7 +43,6 @@ Oral sessions will also be streamed on Zoom.
   - UC3M-PUCPR at SemEval-2022 Task 11: An Ensemble Method of Transformer-based Models for Complex Named Entity Recognition
   - PAI at SemEval-2022 Task 11: Name Entity Recognition with Contextualized Entity Representations and Robust Loss Functions
   - Qtrade AI at SemEval-2022 Task 11: An Unified Framework for Multilingual NER Task
-  - L3i at SemEval-2022 Task 11: Straightforward Additional Context for Multilingual Named Entity Recognition
   - UA-KO at SemEval-2022 Task 11: Data Augmentation and Ensembles for Korean Named Entity Recognition
   - RACAI at SemEval-2022 Task 11: Complex named entity recognition using a lateral inhibition mechanism
   - USTC-NELSLIP at SemEval-2022 Task 11: Gazetteer-Adapted Integration Network for Multilingual Complex Named Entity Recognition
@@ -115,7 +114,8 @@ Oral sessions will also be streamed on Zoom.
   - SPDB Innovation Lab at SemEval-2022 Task 10: A Novel End-to-End Structured Sentiment Analysis Model based on the ERNIE-M
   - KDDIE at SemEval-2022 Task 11: Using DeBERTa for Named Entity Recognition
   - DAMO-NLP at SemEval-2022 Task 11: A Knowledge-based System for Multilingual Named Entity Recognition
-  - SFE-AI at SemEval-2022 Task 11:  Low-Resource Named Entity Recognition using Large Pre-trained Language Models
+  - SFE-AI at SemEval-2022 Task 11: Low-Resource Named Entity Recognition using Large Pre-trained Language Models
+  - L3i at SemEval-2022 Task 11: Straightforward Additional Context for Multilingual Named Entity Recognition
 </details>
 
 <em>10:00-10:30 Coffee break</em>
